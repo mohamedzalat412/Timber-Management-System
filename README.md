@@ -173,8 +173,8 @@ The following are planned areas for future development and analysis, not current
 
 ## 🔗 Project Links
 
-- 🌐 **Live Portfolio:** [View Case Study](https://mohamedzalat412.github.io/timber-portfolio/)
-- 💻 **GitHub Repository:** [Timber Portfolio](https://github.com/mohamedzalat412/timber-portfolio)
+- 🌐 **Live Portfolio:** [View Case Study](https://mohamedzalat412.github.io/Timber-Management-System/)
+- 💻 **GitHub Repository:** [Timber Portfolio](https://github.com/mohamedzalat412/Timber-Management-System)
 - 💼 **LinkedIn:** [Mohamed Islam Zalat](https://www.linkedin.com/)
 
 ## 👤 About Me
