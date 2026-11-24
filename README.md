@@ -1,4 +1,3 @@
-[Requirements Specification](docs/SPECIFICATION.md)
 # Timber Management System
 ### Business Analysis & Product Ownership Case Study
 
@@ -9,6 +8,8 @@
     <strong>🌐 View Live Portfolio</strong>
   </a>
 </p>
+## Documentation
+-[Requirements Specification](docs/SPECIFICATION.md)
 
 ---
 
