@@ -165,14 +165,13 @@ I defined test cases and acceptance criteria to evaluate the system against key 
 
 ## 🚀 Future Opportunities
 
-The following are planned areas for future development and analysis, not currently implemented features:
+The following are planned areas for future business development, not currently implemented features:
 
-- SQL-based business data analysis.
-- Power BI dashboards.
-- Python-based data analysis.
-- Sales trend analysis by month, customer, and timber size.
-- Business performance indicators.
-- Reporting automation.
+- Operational KPIs for sales, inventory and cash.
+- Sales trend review by month, customer and timber size.
+- Business performance indicators for the owner's regular review.
+- Process improvement of daily workflows based on the system's records.
+- Further reporting for management decisions.
 
 ## 🔗 Project Links
 
