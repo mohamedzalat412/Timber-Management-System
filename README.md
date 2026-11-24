@@ -8,8 +8,9 @@
     <strong>🌐 View Live Portfolio</strong>
   </a>
 </p>
+
 ## Documentation
--[Requirements Specification](docs/SPECIFICATION.md)
+[Requirements Specification](docs/SPECIFICATION.md)
 
 ---
 
